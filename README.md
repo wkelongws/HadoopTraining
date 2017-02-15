@@ -88,10 +88,10 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
 * exchange file with cluster:
 
 1. open FileZilla and login: type URL in host, username, password and 22 in port:
-    ![alt text][FileZillain]
+    ![alt text][FileZillalogin]
     
 2. FileZilla provide a save file exchange platform between your mac and the remove linux machine. The left window is your mac, the right window is the remove linux machine you logged in (in this case it is 10.29.19.10 which we also call it "local" or "server" or "cluster" in different situations.....) You can upload files from you laptop to the cluster by simply dragging and dropping files to the right window, and you can download files to you laptop from the cluster by simply dragging and dropping files from the right window. This is the way I upload the three files shown in the picture
-    ![alt text][FileZillalogin]
+    ![alt text][FileZillain]
 
 * The "Local" or "server" is not actually HDFS and the three folders and three files you have seen are not in HDFS. You can peek the files in HDFS by typing "hdfs dfs -ls" in Terminal command line
     ![alt text][mac5]
