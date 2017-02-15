@@ -31,21 +31,21 @@
 
 We will be using INTRANS test cluster in this lecture, but you need to install some software on your laptop to support the connection to the cluster.
 
-##**Windows:**
+###**Windows:**
 
 1. Putty 
 ![alt text][Putty]
 2. WinSCP
 ![alt text][WinSCP]
 
-##**Mac:**
+###**Mac:**
 
 1. FileZilla
 ![alt text][FileZilla]
 
 ###Please search online, download and install the required sofeware according to you laptop system. Then let's try to connnect to the cluster and HDFS:
 
-##**Windows:**
+###**Windows:**
 
 * Connet to cluster:
 
@@ -69,7 +69,7 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
     We will explore HDFS more in the class!
 
 
-##**Mac:**
+###**Mac:**
 
 * Connet to cluster:
 
@@ -98,18 +98,30 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
     We will explore HDFS more in the class!
 
 
+## Optional: 
 
-Jupyter notebook
+If you are going to develop tons of mapreduce programs and want to setup a developing envirionment on you own machine, you can download Eclipse and confiigure a java envirionment for Hadoop.
 
-* Optional: 
-Eclipse
-Java
+Comparing to Python which is dynamic typing, java is a static typing language. There are some pros and cons of Java comparing to Python. The biggest advantage of Java could be it has a compiler watching you behind and can instantly tells you there is a synax error and how to fix it while you are typing. But because of the over-detailed formalities, java needs way more lines to perform the same function of python. So it is generally believed that a programmer is 5 times more productive using python than using java...
+
+The aforementioned estimate also depends. In some cases java is more suitable than python and maybe Hadoop is one of these cases. The entire Hadoop thing is built on java so sometime it is easier for you to dig deeper using java.
+
+After all, We are not going to use java in this class. So I am not providing info about using java for hadoop here.
 
 
-* more options:
-Virtual machine (Cloudera)
-Cloud service
+## more options:
 
+What if you don't have access to our INTRANS cluster in some cases and you just happened to want to play with hadoop so desperately ...
+
+There are more options!
+
+1. Cloudera veritual machine
+    You can install a "virtual machine" on your own machine. It is kind of a double system but not exactly a double system. Cloudera provides a virtual machine with hadoop configured on for personal uses. So if you are interested you can search cloudra virtual machine and explore more.
+
+2. Cloud service
+    Amazon Web service (AWS) or Azure are your typical choices. They claim Azure is bigger than AWS and I believe Azure is also more expensive than AWS. To use these service, you need to go to their webpage, open an account (with credit card information provided), choose a remove machine or a remove cluster, launch it and get charged... For a basic GPU cluster I remembered it's $0.9/hour for AWS and $1.2/hour for Azure and I could be wrong. We can find out more on the Azure workshop on Feb 24, 2017
+    
+After all, these options are not going to be used or introduced in class..
 
 
 
