@@ -66,7 +66,8 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
 
 * The "Local" or "server" is not actually HDFS and the three folders and three files you have seen are not in HDFS.You can peek the files in HDFS by typing "hdfs dfs -ls" in Putty command line
     ![alt text][HDFSin]
-    We will explore HDFS more in the class!
+    At this point you can try to create your own folder in HDFS and play inside. But please try not to delete any public files.
+    We will explore HDFS in the class together!
 
 
 ###**Mac:**
@@ -95,7 +96,8 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
 
 * The "Local" or "server" is not actually HDFS and the three folders and three files you have seen are not in HDFS. You can peek the files in HDFS by typing "hdfs dfs -ls" in Terminal command line
     ![alt text][mac5]
-    We will explore HDFS more in the class!
+     At this point you can try to create your own folder in HDFS and play inside. But please try not to delete any public files.
+    We will explore HDFS in the class together!
 
 
 ## Optional: 
