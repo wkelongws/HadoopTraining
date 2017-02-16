@@ -8,6 +8,18 @@
 * understand how MapReduce works and run your own MapReduce program written in python using Hadoop streaming utility;
 * write you own PIG script to solve data processing problems in your class project and future research.
 
+**Updated Feb 16 10:00am:**
+
+{
+
+The user names we used before (user1 , user2, ...., user 15) don't have access the the public HDFS space. We created one new account in the test cluster just functioning as the "team" in the main cluster for this lecture. So in this lecture everybody should use username: **class** and password: **hadoop** to login to any of the three machines: **10.29.19.6**, **10.29.19.10** and **10.29.19.11**.
+I would recommend: **user 1-7 use 10.29.19.6, user 8-14 use 10.29.19.10 and the rest use 10.29.19.11**.
+
+Then after logging in if you check what's in HDFS now by typing "hdfs dfs -ls", you should see the folder "data_CE650C" which contains all the sample datasets we gona use for in-class exercises.
+
+}
+
+
 ###Here are something you need to prepare before the class:
 
 [//]: # (Image References)
@@ -30,6 +42,7 @@
 ## Required: 
 
 We will be using INTRANS test cluster in this lecture, but you need to install some software on your laptop to support the connection to the cluster.
+
 
 ###**Windows:**
 
@@ -102,13 +115,13 @@ We will be using INTRANS test cluster in this lecture, but you need to install s
 
 ## Optional: 
 
-If you are going to develop tons of mapreduce programs and want to setup a developing envirionment on you own machine, you can download Eclipse and confiigure a java envirionment for Hadoop.
+If you are going to develop tons of mapreduce programs and want to setup a developing envirionment on you own machine, you can download Eclipse and configure a java environment for Hadoop.
 
-Comparing to Python which is dynamic typing, java is a static typing language. There are some pros and cons of Java comparing to Python. The biggest advantage of Java could be it has a compiler watching you behind and can instantly tells you there is a synax error and how to fix it while you are typing. But because of the over-detailed formalities, java needs way more lines to perform the same function of python. So it is generally believed that a programmer is 5 times more productive using python than using java...
+Comparing to Python which is dynamic typing, java is a static typing language. There are some pros and cons of Java comparing to Python. The biggest advantage of Java could be it has a compiler watching you behind and can instantly tell you there is a synax error and how to fix it while you are typing. But because of the over-detailed formalities, java needs way more lines to perform the same function in Python. So it is generally believed that a programmer is 5 times more productive using python than using java...
 
-The aforementioned estimate also depends. In some cases java is more suitable than python and maybe Hadoop is one of these cases. The entire Hadoop thing is built on java so sometime it is easier for you to dig deeper using java.
+The aforementioned estimation also depends. In some cases java is more suitable than python and maybe Hadoop is one of these cases. The entire Hadoop thing is built on java so sometime it is easier for you to dig deeper using java.
 
-After all, We are not going to use java in this class. So I am not providing info about using java for hadoop here.
+After all, we are not going to use java in this class. So I am not providing info about using java for hadoop here.
 
 
 ## more options:
@@ -123,7 +136,7 @@ There are more options!
 2. Cloud service
     Amazon Web service (AWS) or Azure are your typical choices. They claim Azure is bigger than AWS and I believe Azure is also more expensive than AWS. To use these service, you need to go to their webpage, open an account (with credit card information provided), choose a remove machine or a remove cluster, launch it and get charged... For a basic GPU cluster I remembered it's $0.9/hour for AWS and $1.2/hour for Azure and I could be wrong. We can find out more on the Azure workshop on Feb 24, 2017
     
-After all, these options are not going to be used or introduced in class..
+After all, these options are not going to be used or introduced in class.
 
 
 
