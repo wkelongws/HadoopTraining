@@ -83,9 +83,17 @@ download from WinSCP from FileZilla by dragging and dropping.
 * Then you can treat it using anything you want on your machine!
 
 
-###step6: Create your own mapper and reducer function!
+##step6: Create your own mapper and reducer function!
 
-UNFINISHED....
+Our 5min aggregated data has {sensor, time, hour, 5min, avgspeed, totalcount, avgoccupancy}
+
+Now we want minimum speed of each 5min also be reported at the end.
+
+So the new aggregated data should has {sensor, time, hour, 5min, avgspeed, totalcount, avgoccupancy, minspeed}
+
+In this challenge you need to open and change both Exp1_mapper.py and Exp1_reducer.py
+
+Good Luck and Have Fun!
 
 ### HDFS shell command
 
