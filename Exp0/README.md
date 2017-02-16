@@ -34,25 +34,31 @@ ls
 
 ###step5: Create your folder in HDFS
 
-check what's in the HDFS now: 
+* check what's in the HDFS now: 
 
 hdfs dfs -ls
 
-Create a folder using the same name of the folder you just created on "Local"
+* Create a folder using the same name of the folder you just created on "Local"
 
 hdfs dfs -mkdir yourfoldername
 
-check what's in the HDFS now:
+* check what's in the HDFS now:
 
 hdfs dfs -ls
 
-upload Exp1_mapper.py, Exp1_reducer.py and job_Exp1 to your folder in HDFS
+* upload Exp1_mapper.py to your folder in HDFS
 
 hdfs dfs -copyFromLocal Exp1_mapper.py yourfoldername
-hdfs dfs -copyFromLocal Exp1_reducer.py yourfoldername
-hdfs dfs -copyFromLocal job_Exp1.py yourfoldername
 
-Check what's in your HDFS folder now
+* Check what's in your HDFS folder now
+
+hdfs dfs -ls yourfoldername
+
+* delelte the uploaded file:
+
+hdfs dfs -rm Exp1_mapper.py yourfoldername/Exp1_mapper.py
+
+* Check what's in your HDFS folder now
 
 hdfs dfs -ls yourfoldername
 
