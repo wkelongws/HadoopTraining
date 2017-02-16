@@ -100,12 +100,21 @@ Good Luck and Have Fun!
 [HDFS shell command](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html)
 
 hdfs dfs –ls
+
 hdfs dfs –mkdir
+
 hdfs dfs –copyFromLocal
+
 hdfs dfs –du –h 
+
 hdfs dfs –cat 
+
 hdfs dfs –mv
+
 hdfs dfs –put 
+
 hdfs dfs –copyToLocal
+
 hdfs dfs –rm
+
 hdfs dfs -rmr
