@@ -8,6 +8,18 @@
 * understand how MapReduce works and run your own MapReduce program written in python using Hadoop streaming utility;
 * write you own PIG script to solve data processing problems in your class project and future research.
 
+**Updated Feb 16 10:00am:**
+
+{
+
+The user names we used before (user1 , user2, ...., user 15) don't have access the the public HDFS space. We created one new account in the test cluster just functioning as the "team" in the main cluster for this lecture. So in this lecture everybody should use username: **class** and password: **hadoop** to login to any of the three machines: **10.29.19.6**, **10.29.19.10** and **10.29.19.11**.
+I would recommend: **user 1-7 use 10.29.19.6, user 8-14 use 10.29.19.10 and the rest use 10.29.19.11**.
+
+Then after logging in if you check what's in HDFS now by typing "hdfs dfs -ls", you should see the folder "data_CE650C" which contains all the sample datasets we gona use for in-class exercises.
+
+}
+
+
 ###Here are something you need to prepare before the class:
 
 [//]: # (Image References)
@@ -31,16 +43,6 @@
 
 We will be using INTRANS test cluster in this lecture, but you need to install some software on your laptop to support the connection to the cluster.
 
-**Updated Feb 16 10:00am:**
-
-{
-
-The user names we used before (user1 , user2, ...., user 15) don't have access the the public HDFS space. We created one new account in the test cluster just functioning as the "team" in the main cluster for this lecture. So in this lecture everybody should use username: **class** and password: **hadoop** to login to any of the three machines: **10.29.19.6**, **10.29.19.10** and **10.29.19.11**.
-I would recommend: **user 1-7 use 10.29.19.6, user 8-14 use 10.29.19.10 and the rest use 10.29.19.11**.
-
-Then after logging in if you check what's in HDFS now by typing "hdfs dfs -ls", you should see the folder "data_CE650C" which contains all the sample datasets we gona use for in-class exercises.
-
-}
 
 ###**Windows:**
 
