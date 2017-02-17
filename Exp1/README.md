@@ -97,7 +97,7 @@ Good Luck and Have Fun!
 
 HINT: 
 
-    1. To change the aggregateion level, you need the change the output key in the mapper function to make sure all report belonging to the same 30min period get the same key!
+    1. To change the aggregateion level, you need to change the output key in the mapper function to make sure all records belonging to the same 30min period get the same key!
 
     2. To get the minumum speed, in mapper you need to find the minimum speed from all lanes and output it to reducer, and then in reducer you need to find the minimum speed for each key.
 
