@@ -87,13 +87,19 @@ download from WinSCP from FileZilla by dragging and dropping.
 
 Our 5min aggregated data has {sensor, time, hour, 5min, avgspeed, totalcount, avgoccupancy}
 
-Now we want minimum speed of each 5min also be reported at the end.
+Now we want 30min aggregated data and besides avgspeed, totalcount and avgoccupancy we also want the minimum speed.
 
-So the new aggregated data should has {sensor, time, hour, 5min, avgspeed, totalcount, avgoccupancy, minspeed}
+So the new aggregated data should has {sensor, time, hour, 30min, avgspeed, totalcount, avgoccupancy, minspeed}
 
 In this challenge you need to open and change both Exp1_mapper.py and Exp1_reducer.py
 
 Good Luck and Have Fun!
+
+HINT: 
+
+    1. To change the aggregateion level, you need the change the output key in the mapper function to make sure all report belonging to the same 30min period get the same key!
+
+    2. To get the minumum speed, in mapper you need to find the minimum speed from all lanes and output it to reducer, and then in reducer you need to find the minimum speed for each key.
 
 ### HDFS shell command
 
