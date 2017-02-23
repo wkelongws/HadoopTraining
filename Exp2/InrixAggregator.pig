@@ -1,7 +1,7 @@
 
 -- load data in with the name and data type of each column specifically defined
 
-Inrix_withHeader = LOAD 'InrixSegments/2016/12/12-31-2016.csv' USING PigStorage(',') AS (XD:int,missing1:chararray,missing2:chararray,score:int,speed1:int,speed2:int,speed3:int,traveltime:float,timestamp:chararray);
+Inrix_withHeader = LOAD 'data_CE650C/inrix_sample/XD/12-31-2016.csv' USING PigStorage(',') AS (XD:int,missing1:chararray,missing2:chararray,score:int,speed1:int,speed2:int,speed3:int,traveltime:float,timestamp:chararray);
 
 -- remove the header in the first row using pig filter function
 
@@ -21,7 +21,7 @@ data = FOREACH Hourly GENERATE group.XD, group.hour, AVG(XD_speed_time.speed1);
 
 -- save the result
 
-STORE data INTO 'Shuo/testoutput' USING PigStorage(',');
+STORE data INTO 'Shuo/output_Exp2' USING PigStorage(',');
 
 -- truncate result for display
 

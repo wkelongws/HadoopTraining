@@ -9,21 +9,21 @@ we will use
 
 data location:
 
-data_CE650C/Inrix_sample/XD/12-31-2016.csv
+data_CE650C/inrix_sample/XD/12-31-2016.csv
 
-hdfs dfs -ls data_CE650C/Inrix_sample/XD/
+hdfs dfs -ls data_CE650C/inrix_sample/XD/
 
 * check the size of the file:
 
-hdfs dfs -du -h data_CE650C/Inrix_sample/XD/12-31-2016.csv
+hdfs dfs -du -h data_CE650C/inrix_sample/XD/12-31-2016.csv
 
 * check how many lines are in the file:
 
-hdfs dfs -cat data_CE650C/Inrix_sample/XD/12-31-2016.csv | wc -l
+hdfs dfs -cat data_CE650C/inrix_sample/XD/12-31-2016.csv | wc -l
 
 * see the top 100 lines in the file:
 
-hdfs dfs -cat data_CE650C/Inrix_sample/XD/12-31-2016.csv | head -100
+hdfs dfs -cat data_CE650C/inrix_sample/XD/12-31-2016.csv | head -100
 
 ###step2: download and read the code
 

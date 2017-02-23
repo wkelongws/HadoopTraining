@@ -1,2 +1,2 @@
-hdfs dfs -rmr your/output/path
-hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar -file Exp1_mapper.py -file Exp1_reducer.py -input data_CE650C/wavetronix_sample/RAW/12312016.txt -output your/output/path -mapper Exp1_mapper.py -reducer Exp1_reducer.py
+hdfs dfs -rmr your/output/path/output_Exp1
+hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar -file Exp1_mapper.py -file Exp1_reducer.py -input data_CE650C/wavetronix_sample/RAW/12312016.txt -output your/output/path/output_Exp1 -mapper Exp1_mapper.py -reducer Exp1_reducer.py

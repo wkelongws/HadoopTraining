@@ -1,7 +1,7 @@
 
 -- load data in with the name and data type of each column specifically defined
 
-weather = LOAD 'Shuo/weatherCSV/2016/201612/20161231' USING PigStorage(',') AS (time:chararray,gid:int,tmpc:float,wawa:chararray,ptype:int,dmpc:chararray,smps:chararray,drct:int,vsby:chararray,roadtmpc:chararray,rad:chararray,snwd:chararray,pcpn:float);
+weather = LOAD 'data_CE650C/weather_sample/CSV/20161231' USING PigStorage(',') AS (time:chararray,gid:int,tmpc:float,wawa:chararray,ptype:int,dmpc:chararray,smps:chararray,drct:int,vsby:chararray,roadtmpc:chararray,rad:chararray,snwd:chararray,pcpn:float);
 
 -- remove other gids, only keep gid 1000
 
@@ -21,7 +21,7 @@ data = FOREACH HalfHourly GENERATE group.gid, group.hour, group.half, MAX(gid100
 
 -- save the result
 
--- STORE data INTO 'Shuo/testoutput' USING PigStorage(',');
+STORE data INTO 'Shuo/output_Exp3' USING PigStorage(',');
 
 -- truncate result for display
 
