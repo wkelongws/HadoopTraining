@@ -1,0 +1,330 @@
+Direction,coded_direction,IWZ,Latitude,Longitude,Name,SegmentLength,Group,Group_new,ID,Linear-Reference,order,ProjectName,Portable,APS,Device,GID
+EB,1,0,41.661907,-93.507489,I-80 EB Between US65N and US65S,0.1,c,Group 1 - 1.3 - I80,1,141.4,1,Project 1.3,0,0,Sensor,85460
+WB,2,0,41.6621,-93.507509,I-80 WB Between US65N and US65S,0.1,c,Group 1 - 1.3 - I80,2,141.4,1,Project 1.3,0,0,Sensor,85460
+EB,1,0,41.661952,-93.50325,I-80 EB @ 34th Ave NW,0.35,c,Group 1 - 1.3 - I80,3,141.6,2,Project 1.3,0,1,Sensor,85460
+WB,2,0,41.662118,-93.503255,I-80 WB @ 34th Ave NW,0.35,c,Group 1 - 1.3 - I80,4,141.6,2,Project 1.3,0,1,Sensor,85460
+EB,1,0,41.661537,-93.493663,I-80 EB @ Hubbell - Altoona,0.7,c,Group 1 - 1.3 - I80,5,142.1,3,Project 1.3,0,0,Sensor,85461
+WB,2,0,41.661537,-93.493663,I-80 WB @ Hubbell - Altoona,0.7,c,Group 1 - 1.3 - I80,6,142.1,3,Project 1.3,0,0,Sensor,85461
+EB,1,0,41.662284,-93.47803,I-80 EB @ DMS - Altoona,1,c,Group 1 - 1.3 - I80,7,143,4,Project 1.3,0,1,Sensor,85463
+WB,2,0,41.663182,-93.478662,I-80 WB @ DMS - Altoona,1,c,Group 1 - 1.3 - I80,8,143,4,Project 1.3,0,1,Sensor,85463
+EB,1,0,41.669308,-93.458011,I-80 EB East of 1st Ave N - Alto,0.95,c,Group 1 - 1.3 - I80,9,144.1,5,Project 1.3,0,1,Sensor,85465
+WB,2,0,41.669509,-93.458077,I-80 WB East of 1st Ave N - Alto,0.95,c,Group 1 - 1.3 - I80,10,144.1,5,Project 1.3,0,1,Sensor,85465
+EB,1,0,41.671816,-93.443833,I-80 EB @ NE 62nd Ave - Altoona,2.69,c,Group 1 - 1.3 - I80,11,144.9,6,Project 1.3,0,1,Sensor,86126
+WB,2,0,41.671994,-93.444046,I-80 WB @ NE 62nd Ave - Altoona,2.69,c,Group 1 - 1.3 - I80,12,144.9,6,Project 1.3,0,1,Sensor,86126
+EB,1,0,41.680169,-93.356314,IWZ 3089 EB,6.2,c,Group 1 - 1.3 - I80,13,149.48,7,Project 1.3,1,1,Sensor,86795
+WB,2,0,41.681205,-93.356362,IWZ 3089 WB,6.2,c,Group 1 - 1.3 - I80,14,149.48,7,Project 1.3,1,1,Sensor,86795
+EB,1,0,41.699219,-93.208333,IWZ 3518 EB,3.91,c,Group 1 - 1.3 - I80,15,157.3,8,Project 1.3,1,1,Sensor,87470
+WB,2,0,41.700228,-93.20838,IWZ 3518 WB,3.91,c,Group 1 - 1.3 - I80,16,157.3,8,Project 1.3,1,1,Sensor,88130
+WB,1,0,42.44899,-93.585679,IWZ2992 - US 20 WB @ MM 152.2,0.15,1a,Group 1a,1,152.2,1,Project 1a,1,0,Sensor,136932
+EB,2,0,42.44851,-93.58568,IWZ2992 - US 20 EB @ MM 152.2,0.825,1a,Group 1a,2,152.2,1,Project 1a,1,1,Sensor,136932
+WB,1,0,42.448912,-93.57829,IWZ2990 - US 20 WB @ I-35 SB On,0.975,1a,Group 1a,3,152.5,2,Project 1a,1,0,Sensor,136933
+EB,2,0,42.44857,-93.57828,IWZ2990 - US 20 EB @ I-35 SB Off,0.15,1a,Group 1a,4,152.5,2,Project 1a,1,1,Sensor,136933
+WB,1,0,42.44857,-93.55871,IWZ2999 - US 20 WB @ Vail Ave,0.575,1a,Group 1a,5,153,3,Project 1a,1,1,Sensor,136935
+EB,2,0,42.448678,-93.558724,IWZ2999 - US 20 EB @ Vail Ave,0.575,1a,Group 1a,6,153,3,Project 1a,1,0,Sensor,136935
+WB,1,0,42.44856,-93.5469,IWZ2994 - US 20 WB @ MM 154.15,0.25,1a,Group 1a,7,154.15,4,Project 1a,1,1,Sensor,136936
+EB,2,0,42.448667,-93.54691,IWZ2994 - US 20 EB @ MM 154.15,0.4,1a,Group 1a,8,154.15,4,Project 1a,1,0,Sensor,136936
+EB,1,0,41.679823,-92.941603,I-80 EB at 84th Street,0.55,1c,Group 1c,1,171.4,1,Project 1c,1,0,Sensor,86176
+EB,1,0,41.681061,-92.920124,IWZ2995 - I-80 EB @ MM 172.50,0.8,1c,Group 1c,2,172.5,2,Project 1c,1,0,Sensor,86838
+EB,1,0,41.682381,-92.902665,I-80 EB at Hwy T22,0.8,1c,Group 1c,3,173,3,Project 1c,1,0,Sensor,86840
+EB,1,0,41.68703,-92.881663,I-80 EB at 108th Street,1.275,1c,Group 1c,4,174.1,4,Project 1c,1,0,Sensor,86842
+EB,1,0,41.69328,-92.863834,IWZ2987 - I-80 EB @ MM 175.55,1.125,1c,Group 1c,5,175.55,5,Project 1c,1,0,Sensor,87504
+EB,1,0,41.694758,-92.849191,IWZ3091 - I-80 EB @ MM 176.35,0.725,1c,Group 1c,6,176.35,6,Project 1c,1,0,Sensor,87506
+EB,1,0,41.694828,-92.836348,IWZ3062 - I-80 EB @ MM 177.00,0.925,1c,Group 1c,7,177,7,Project 1c,1,0,Sensor,87507
+EB,1,0,41.694939,-92.81363,IWZ2005 - I-80 EB @ MM 178.20,1.1,1c,Group 1c,8,178.2,8,Project 1c,1,0,Sensor,87509
+EB,1,0,41.695003,-92.792144,IWZ3069 - I-80 EB @ Hwy T38 On R,1.05,1c,Group 1c,9,179.2,9,Project 1c,1,0,Sensor,87511
+EB,1,0,41.695129,-92.77137,IWZ3309 - I-80 EB @ Grinnell RA,0.55,1c,Group 1c,10,180.3,10,Project 1c,1,0,Sensor,87513
+WB,2,0,41.680028,-92.941613,I-80 WB at 84th Street,0.55,1c,Group 1c,11,171.4,1,Project 1c,1,0,Sensor,86836
+WB,2,0,41.681562,-92.920222,IWZ2995 - I-80 WB @ MM 172.50,0.8,1c,Group 1c,12,172.5,2,Project 1c,1,0,Sensor,86838
+WB,2,0,41.68263,-92.902737,I-80 WB at Hwy T22,0.8,1c,Group 1c,13,173,3,Project 1c,1,0,Sensor,86840
+WB,2,0,41.687183,-92.881869,I-80 WB at 108th Street,1.275,1c,Group 1c,14,174.1,4,Project 1c,1,0,Sensor,86842
+WB,2,0,41.693709,-92.864177,IWZ2987 - I-80 WB @ MM 175.55,1.125,1c,Group 1c,15,175.55,5,Project 1c,1,0,Sensor,87504
+WB,2,0,41.695369,-92.849218,IWZ3091 - I-80 WB @ MM 176.35,0.725,1c,Group 1c,16,176.35,6,Project 1c,1,0,Sensor,87506
+WB,2,0,41.695442,-92.83635,IWZ3062 - I-80 WB @ MM 177.00,0.925,1c,Group 1c,17,177,7,Project 1c,1,0,Sensor,87507
+WB,2,0,41.695553,-92.813651,IWZ2005 - I-80 WB @ MM 178.20,1.1,1c,Group 1c,18,178.2,8,Project 1c,1,0,Sensor,87509
+WB,2,0,41.695607,-92.792187,IWZ3069 - I-80 WB @ Hwy T38 Off,1.05,1c,Group 1c,19,179.2,9,Project 1c,1,0,Sensor,87511
+WB,2,0,41.695629,-92.77138,IWZ3309 - I-80 WB @ Grinnell RA,0.55,1c,Group 1c,20,180.3,10,Project 1c,1,0,Sensor,87513
+NB,1,0,42.1178,-93.55219,IWZ 3075 NB,9999,1q,Group 1q,1,118.9,1,Project 1q,1,1,Sensor,115155
+SB,2,0,42.117778,-93.552854,IWZ 3075 SB,9999,1q,Group 1q,2,118.9,1,Project 1q,1,0,Sensor,115155
+NB,1,0,41.40468,-93.5584,IWZ2989 - US 65 NB @ MM 62,0.5,1r,Group 1r,1,62,1,Project 1r,1,1,Sensor,68295
+SB,2,0,41.404669,-93.559211,IWZ2989 - US 65 SB @ MM 62,0.5,1r,Group 1r,2,62,1,Project 1r,1,0,Sensor,68295
+NB,1,0,41.42072,-93.55833,IWZ3083 - US 65 NB @ MM 63,0.5,1r,Group 1r,3,63,2,Project 1r,1,1,Sensor,69615
+SB,2,0,41.420656,-93.5592,IWZ3083 - US 65 SB @ MM 63,0.5,1r,Group 1r,4,63,2,Project 1r,1,0,Sensor,69615
+NB,1,0,41.761241,-93.569112,I-35 NB @ NE 36th St,1,1t,Group 1t,226,94.8,1,Project 1t,0,0,Sensor,92054
+SB,2,0,41.76119,-93.569449,I-35 SB @ NE 36th St,1,1t,Group 1t,255,94.8,1,Project 1t,0,0,Sensor,92054
+NB,1,0,41.791254,-93.570257,I-35 NB @ NE 126th Ave,2,1t,Group 1t,227,96.8,2,Project 1t,0,0,Sensor,94033
+SB,2,0,41.791235,-93.570544,I-35 SB @ NE 126th Ave,2,1t,Group 1t,254,96.8,2,Project 1t,0,0,Sensor,94033
+NB,1,0,41.820534,-93.570718,I-35 NB @ NE 142nd Ave,2,1t,Group 1t,228,98.8,3,Project 1t,0,0,Sensor,96013
+SB,2,0,41.820534,-93.570991,I-35 SB @ NE 142nd Ave,2,1t,Group 1t,253,98.8,3,Project 1t,0,0,Sensor,96013
+NB,1,0,41.849689,-93.570935,I-35 NB @ NE 158th Ave,2,1t,Group 1t,229,100.8,4,Project 1t,0,0,Sensor,97333
+SB,2,0,41.849691,-93.571214,I-35 SB @ NE 158th Ave,2,1t,Group 1t,252,100.8,4,Project 1t,0,0,Sensor,97333
+NB,1,0,41.877697,-93.571049,I-35 NB @ IA 210,1.55,1t,Group 1t,230,102.8,5,Project 1t,0,0,Sensor,99313
+SB,2,0,41.877695,-93.571334,I-35 SB @ IA 210,1.55,1t,Group 1t,251,102.8,5,Project 1t,0,0,Sensor,99313
+NB,1,0,41.893732,-93.570946,I-35 NB @ Heart of Iowa Nature T,1.45,1t,Group 1t,231,103.9,6,Project 1t,0,0,Sensor,100633
+SB,2,0,41.893736,-93.57122,I-35 SB @ Heart of Iowa Nature T,1.45,1t,Group 1t,250,103.9,6,Project 1t,0,0,Sensor,100633
+NB,1,0,41.919277,-93.570074,I-35 NB @ MP 105.7,1.95,1t,Group 1t,232,105.7,7,Project 1t,0,0,Sensor,101953
+SB,2,0,41.919244,-93.570325,I-35 SB @ MP 105.7,1.95,1t,Group 1t,249,105.7,7,Project 1t,0,0,Sensor,101953
+NB,1,0,41.949573,-93.569597,I-35 NB @ MP 107.8,2.05,1t,Group 1t,233,107.8,8,Project 1t,0,0,Sensor,103934
+SB,2,0,41.949531,-93.569873,I-35 SB @ MP 107.8,2.05,1t,Group 1t,248,107.8,8,Project 1t,0,0,Sensor,103934
+NB,1,0,41.979355,-93.570454,I-35 NB @ County Rd E57,1.85,1t,Group 1t,234,109.8,9,Project 1t,0,0,Sensor,105913
+SB,2,0,41.979322,-93.570723,I-35 SB @ County Rd E57,1.85,1t,Group 1t,247,109.8,9,Project 1t,0,0,Sensor,105913
+NB,1,0,42.003934,-93.570946,I-35 NB S of US 30,1,1t,Group 1t,235,111.5,10,Project 1t,0,0,Sensor,107893
+SB,2,0,42.003957,-93.571211,I-35 SB S of US 30,1,1t,Group 1t,246,111.5,10,Project 1t,0,0,Sensor,107893
+NB,1,0,42.008083,-93.570977,I-35 NB @ US 30 North,0.1505,1t,Group 1t,236,111.8,11,Project 1t,0,0,Sensor,107893
+SB,2,0,42.008074,-93.571285,I-35 SB @ US 30 North,0.1505,1t,Group 1t,244,111.8,11,Project 1t,0,0,Sensor,107893
+NB,1,0,42.007312,-93.570974,I-35 NB @ US 30 South,0.5,1t,Group 1t,237,111.801,12,Project 1t,0,0,Sensor,107893
+SB,2,0,42.007261,-93.571281,I-35 SB @ US 30 South,0.5,1t,Group 1t,245,111.801,12,Project 1t,0,0,Sensor,107893
+NB,1,0,42.023259,-93.571193,I-35 NB @ E Lincoln Way,0.8995,1t,Group 1t,238,112.8,13,Project 1t,0,0,Sensor,109213
+SB,2,0,42.02325,-93.571481,I-35 SB @ E Lincoln Way,0.8995,1t,Group 1t,243,112.8,13,Project 1t,0,0,Sensor,109213
+NB,1,0,42.034307,-93.570337,I-35 NB @ E 13th St,1.9,1t,Group 1t,239,113.6,14,Project 1t,0,0,Sensor,109873
+SB,2,0,42.034337,-93.57061,I-35 SB @ E 13th St,1.9,1t,Group 1t,242,113.6,14,Project 1t,0,0,Sensor,109873
+NB,1,0,42.078054,-93.566808,I-35 NB @ County Highway E29,1.5,1t,Group 1t,240,116.6,15,Project 1t,0,0,Sensor,112514
+SB,2,0,42.078045,-93.567084,I-35 SB @ County Highway E29,1.5,1t,Group 1t,241,116.6,15,Project 1t,0,0,Sensor,112514
+NB,1,0,42.989552,-93.3403,IWZ3546 - I-35 NB @ MM 183.2,0.95,2a,Group 2a,1,183.2,1,Project 2a,1,1,Sensor,172596
+NB,1,0,43.016129,-93.340272,IWZ3053 - I-35 NB @ MM 185.1,1.425,2a,Group 2a,2,185.1,2,Project 2a,1,1,Sensor,174576
+NB,1,0,43.03035,-93.34097,IWZ3553 - I-35 NB @ MM 186.05,0.475,2a,Group 2a,3,186.05,3,Project 2a,1,1,Sensor,175896
+SB,2,0,42.989517,-93.341373,IWZ3546 - I-35 SB @ MM 183.2,0.95,2a,Group 2a,4,183.2,1,Project 2a,1,1,Sensor,172596
+SB,2,0,43.01614,-93.34138,IWZ3053 - I-35 SB @ MM 185.1,1.425,2a,Group 2a,5,185.1,2,Project 2a,1,1,Sensor,174576
+SB,2,0,43.0303,-93.341966,IWZ3553 - I-35 SB @ MM 186.05,0.475,2a,Group 2a,6,186.05,3,Project 2a,1,1,Sensor,175896
+NB,1,0,41.149335,-95.821531,CBDS 26 NB,0.85,i,Group 5 - 4.1 - I29,1,42.85,1,Project 4.1 - I-29,0,0,Sensor,50908
+SB,2,0,41.149378,-95.822561,CBDS 26 SB,0.85,i,Group 5 - 4.1 - I29,2,42.85,1,Project 4.1 - I-29,0,0,Sensor,50908
+NB,1,0,41.173797,-95.82299,CBDS 52 NB,1.375,i,Group 5 - 4.1 - I29,3,44.55,2,Project 4.1 - I-29,0,0,Sensor,52888
+SB,2,0,41.173754,-95.824127,CBDS 52 SB,1.375,i,Group 5 - 4.1 - I29,4,44.55,2,Project 4.1 - I-29,0,0,Sensor,52888
+NB,1,0,41.189433,-95.823083,CBDS 27 NB,1.15,i,Group 5 - 4.1 - I29,5,45.6,3,Project 4.1 - I-29,0,0,Sensor,53548
+SB,2,0,41.189433,-95.823083,CBDS 27 SB,1.15,i,Group 5 - 4.1 - I29,6,45.6,3,Project 4.1 - I-29,0,0,Sensor,53548
+NB,1,0,41.21784,-95.83028,IWZ 3090 NB,1.055,i,Group 5 - 4.1 - I29,7,46.8,4,Project 4.1 - I-29,1,1,Sensor,56187
+SB,2,0,41.218114,-95.829713,IWZ 3090 SB,0.75,i,Group 5 - 4.1 - I29,8,46.8,4,Project 4.1 - I-29,1,1,Sensor,0
+NB,1,0,41.206262,-95.822818,CBDS 28 NB,0.6,i,Group 5 - 4.1 - I29,9,46.85,5,Project 4.1 - I-29,0,0,Sensor,54868
+SB,2,0,41.206262,-95.82387,CBDS 28 SB,0.6,i,Group 5 - 4.1 - I29,10,46.85,5,Project 4.1 - I-29,0,0,Sensor,54868
+SB,2,0,41.22381,-95.836217,CBDS 18 SB from I-80 WB,1.05,i,Group 5 - 4.1 - I29,11,48.35,6,Project 4.1 - I-29,0,0,Sensor,#N/A
+SB,2,0,41.2305,-95.843583,CBDS 16 EB Thru to I-29 SB,0.305,i,Group 5 - 4.1 - I29,12,48.9,7,Project 4.1 - I-29,0,0,Sensor,56846
+NB,1,0,41.231918,-95.845434,CBDS 17 I-29 NB,1.275,i,Group 5 - 4.1 - I29,13,48.96,6,Project 4.1 - I-29,0,0,Sensor,56846
+SB,2,0,41.231918,-95.845434,CBDS 17 I-29 SB,0.225,i,Group 5 - 4.1 - I29,14,48.96,8,Project 4.1 - I-29,0,0,Sensor,0
+WB,1,0,41.231917,-95.851933,CBDS 14 WB,0.355,i,Group 5 - 4.1 - I29,15,49.35,7,Project 4.1 - I-29,0,0,Sensor,56845
+EB,2,0,41.231917,-95.851933,CBDS 14 EB,0.245,i,Group 5 - 4.1 - I29,16,49.35,9,Project 4.1 - I-29,0,0,Sensor,56845
+EB,2,0,41.232008,-95.854736,I-80 CBDS 57 EB,0.16,i,Group 5 - 4.1 - I29,17,49.45,10,Project 4.1 - I-29,0,1,Sensor,#N/A
+WB,1,0,41.2319,-95.857217,CBDS 12 WB,0.205,i,Group 5 - 4.1 - I29,18,49.67,8,Project 4.1 - I-29,0,0,Sensor,56845
+EB,2,0,41.2319,-95.857217,CBDS 12 EB,0.34,i,Group 5 - 4.1 - I29,19,49.67,11,Project 4.1 - I-29,0,0,Sensor,56845
+WB,1,0,41.232381,-95.858761,CBDS-59-WB,0.245,i,Group 5 - 4.1 - I29,20,49.76,9,Project 4.1 - I-29,0,0,Sensor,56845
+EB,2,0,41.231947,-95.865519,CBDS 10 EB,0.42,i,Group 5 - 4.1 - I29,21,50.13,12,Project 4.1 - I-29,0,0,Sensor,56844
+WB,1,0,41.232376,-95.865519,CBDS 10 WB,0.35,i,Group 5 - 4.1 - I29,22,50.16,10,Project 4.1 - I-29,0,0,Sensor,56844
+WB,1,0,41.232329,-95.874076,I-80 CBDS 58 WB,0.39,i,Group 5 - 4.1 - I29,23,50.46,11,Project 4.1 - I-29,0,0,Sensor,56843
+EB,2,0,41.232142,-95.875,I-80 CBDS 56 EB,0.405,i,Group 5 - 4.1 - I29,24,50.51,13,Project 4.1 - I-29,0,0,Sensor,56843
+WB,1,0,41.232467,-95.883072,I-80 CBDS 55 WB,0.695,i,Group 5 - 4.1 - I29,25,50.94,12,Project 4.1 - I-29,0,0,Sensor,56842
+EB,2,0,41.23225,-95.883063,I-80 CBDS 55 EB,0.405,i,Group 5 - 4.1 - I29,26,50.94,14,Project 4.1 - I-29,0,0,Sensor,56842
+EB,2,0,41.231883,-95.89085,CBDS 08 EB_2,0.655,i,Group 5 - 4.1 - I29,27,51.32,15,Project 4.1 - I-29,0,0,Sensor,56841
+NB,1,0,41.238019,-95.899186,CBDS 05 I-29 NB,0.655,i,Group 5 - 4.1 - I29,28,51.85,13,Project 4.1 - I-29,0,0,Sensor,56841
+NB,1,0,41.243277,-95.904915,CBDS 31 NB,0.38,i,Group 5 - 4.1 - I29,29,52.25,14,Project 4.1 - I-29,0,0,Sensor,57500
+SB,2,0,41.242504,-95.905795,CBDS 31 SB,0.645,i,Group 5 - 4.1 - I29,30,52.25,16,Project 4.1 - I-29,0,0,Sensor,57500
+NB,1,0,41.246867,-95.907133,CBDS 32 NB,0.35,i,Group 5 - 4.1 - I29,31,52.61,15,Project 4.1 - I-29,0,0,Sensor,57500
+SB,2,0,41.246867,-95.907133,CBDS 32 SB,0.35,i,Group 5 - 4.1 - I29,32,52.61,17,Project 4.1 - I-29,0,0,Sensor,57500
+NB,1,0,41.25165,-95.907133,CBDS 33 NB,0.345,i,Group 5 - 4.1 - I29,33,52.95,16,Project 4.1 - I-29,0,0,Sensor,58160
+SB,2,0,41.25165,-95.907133,CBDS 33 SB,0.345,i,Group 5 - 4.1 - I29,34,52.95,18,Project 4.1 - I-29,0,0,Sensor,58160
+NB,1,0,41.256997,-95.906761,CBDS 34 NB,0.47,i,Group 5 - 4.1 - I29,35,53.3,17,Project 4.1 - I-29,0,0,Sensor,58160
+SB,2,0,41.256993,-95.906981,CBDS 34 SB,0.275,i,Group 5 - 4.1 - I29,36,53.3,19,Project 4.1 - I-29,0,0,Sensor,58160
+SB,2,0,41.259183,-95.906866,CBDS 35 SB,0.355,i,Group 5 - 4.1 - I29,37,53.5,20,Project 4.1 - I-29,0,0,Sensor,58160
+NB,1,0,41.2654,-95.9078,CBDS 37 NB,0.475,i,Group 5 - 4.1 - I29,38,53.89,18,Project 4.1 - I-29,0,0,Sensor,58820
+SB,2,0,41.266883,-95.908033,CBDS 38 SB,0.375,i,Group 5 - 4.1 - I29,39,54.01,21,Project 4.1 - I-29,0,0,Sensor,58820
+NB,1,0,41.269498,-95.905731,CBDS 40 NB,0.43,i,Group 5 - 4.1 - I29,40,54.25,19,Project 4.1 - I-29,0,0,Sensor,58820
+SB,2,0,41.27027,-95.906332,CBDS 40 SB,0.37,i,Group 5 - 4.1 - I29,41,54.25,22,Project 4.1 - I-29,0,0,Sensor,58820
+NB,1,0,41.272522,-95.898327,CBDS 41 NB,0.65,i,Group 5 - 4.1 - I29,42,54.75,20,Project 4.1 - I-29,0,0,Sensor,59481
+SB,2,0,41.272706,-95.898456,CBDS 41 SB,0.65,i,Group 5 - 4.1 - I29,43,54.75,23,Project 4.1 - I-29,0,0,Sensor,59481
+NB,1,0,41.274933,-95.885933,CBDS 42 NB,0.565,i,Group 5 - 4.1 - I29,44,55.55,21,Project 4.1 - I-29,0,0,Sensor,59482
+SB,2,0,41.274933,-95.885933,CBDS 42 SB,0.565,i,Group 5 - 4.1 - I29,45,55.55,24,Project 4.1 - I-29,0,0,Sensor,59482
+NB,1,0,41.275077,-95.877857,CBDS 43 NB,0.615,i,Group 5 - 4.1 - I29,46,55.88,22,Project 4.1 - I-29,0,0,Sensor,59483
+SB,2,0,41.275742,-95.878329,CBDS 43 SB,0.65,i,Group 5 - 4.1 - I29,47,55.88,25,Project 4.1 - I-29,0,0,Sensor,59483
+NB,1,0,41.28469,-95.866463,CBDS 44 NB,0.45,i,Group 5 - 4.1 - I29,48,56.78,23,Project 4.1 - I-29,0,0,Sensor,60144
+SB,2,0,41.286879,-95.868351,CBDS 45 SB,0.485,i,Group 5 - 4.1 - I29,49,56.85,26,Project 4.1 - I-29,0,0,Sensor,60144
+EB,1,0,41.231767,-95.90705,CBDS 01 I-80 EB,0.28,j,Group 5 - 4.1 - I80,2,0.5,1,Project 4.1 - I-80,0,0,Sensor,56840
+WB,2,0,41.231767,-95.90705,CBDS 01 I-80 WB,0.54,j,Group 5 - 4.1 - I80,3,0.5,1,Project 4.1 - I-80,0,0,Sensor,56840
+EB,1,0,41.231883,-95.89085,CBDS 08 EB_2,0.545,j,Group 5 - 4.1 - I80,6,1.06,2,Project 4.1 - I-80,0,0,Sensor,56841
+WB,2,0,41.232467,-95.883072,I-80 CBDS 55 WB,0.85,j,Group 5 - 4.1 - I80,8,1.58,2,Project 4.1 - I-80,0,0,Sensor,56842
+EB,1,0,41.23225,-95.883063,I-80 CBDS 55 EB,0.53,j,Group 5 - 4.1 - I80,9,1.59,3,Project 4.1 - I-80,0,0,Sensor,56842
+EB,1,0,41.232142,-95.875,I-80 CBDS 56 EB,0.38,j,Group 5 - 4.1 - I80,11,2.12,4,Project 4.1 - I-80,0,0,Sensor,56843
+WB,2,0,41.232329,-95.874076,I-80 CBDS 58 WB,0.385,j,Group 5 - 4.1 - I80,13,2.2,3,Project 4.1 - I-80,0,0,Sensor,56843
+EB,1,0,41.231947,-95.865519,CBDS 10 EB,0.365,j,Group 5 - 4.1 - I80,14,2.35,5,Project 4.1 - I-80,0,0,Sensor,56844
+WB,2,0,41.232376,-95.865519,CBDS 10 WB,0.4,j,Group 5 - 4.1 - I80,15,2.35,4,Project 4.1 - I-80,0,0,Sensor,56844
+EB,1,0,41.2319,-95.857217,CBDS 12 EB,0.3,j,Group 5 - 4.1 - I80,20,2.85,6,Project 4.1 - I-80,0,0,Sensor,56845
+WB,2,0,41.2319,-95.857217,CBDS 12 WB,0.025,j,Group 5 - 4.1 - I80,21,2.85,5,Project 4.1 - I-80,0,0,Sensor,56845
+EB,1,0,41.232008,-95.854736,I-80 CBDS 57 EB,0.1,j,Group 5 - 4.1 - I80,24,2.95,7,Project 4.1 - I-80,0,1,Sensor,#N/A
+WB,2,0,41.232381,-95.858761,CBDS-59-WB,0.25,j,Group 5 - 4.1 - I80,17,3,6,Project 4.1 - I-80,0,0,Sensor,56845
+EB,1,0,41.231917,-95.851933,CBDS 14 EB,0.25,j,Group 5 - 4.1 - I80,25,3.05,8,Project 4.1 - I-80,0,0,Sensor,56845
+WB,2,0,41.231917,-95.851933,CBDS 14 WB,0.3,j,Group 5 - 4.1 - I80,27,3.05,7,Project 4.1 - I-80,0,0,Sensor,56845
+EB,1,0,41.231984,-95.845409,CBDS 17 I-80 EB,0.225,j,Group 5 - 4.1 - I80,28,3.45,9,Project 4.1 - I-80,0,0,Sensor,0
+WB,2,0,41.231984,-95.845409,CBDS 17 I-80 WB,0.715,j,Group 5 - 4.1 - I80,29,3.45,8,Project 4.1 - I-80,0,0,Sensor,56846
+EB,1,0,41.2305,-95.843583,CBDS 16 EB Thru to I-80 EB,0.515,j,Group 5 - 4.1 - I80,32,3.5,10,Project 4.1 - I-80,0,0,Sensor,56846
+EB,1,0,41.232918,-95.828351,CBDS 20 EB,0.7,j,Group 5 - 4.1 - I80,36,4.48,11,Project 4.1 - I-80,0,0,Sensor,56848
+WB,2,0,41.232918,-95.828351,CBDS 20 WB,1.15,j,Group 5 - 4.1 - I80,37,4.48,9,Project 4.1 - I-80,0,0,Sensor,56848
+EB,1,0,41.238644,-95.825206,CBDS 21 EB,0.635,j,Group 5 - 4.1 - I80,39,4.9,12,Project 4.1 - I-80,0,0,Sensor,56848
+EB,1,0,41.246633,-95.81485,CBDS 22 EB,1.305,j,Group 5 - 4.1 - I80,41,5.75,13,Project 4.1 - I-80,0,0,Sensor,57509
+WB,2,0,41.246633,-95.81485,CBDS 22 WB,1.515,j,Group 5 - 4.1 - I80,42,5.75,10,Project 4.1 - I-80,0,0,Sensor,57509
+EB,1,0,41.268267,-95.794767,CBDS 24 EB,1.525,j,Group 5 - 4.1 - I80,45,7.51,14,Project 4.1 - I-80,0,0,Sensor,58831
+WB,2,0,41.268267,-95.794767,CBDS 24 WB,1.525,j,Group 5 - 4.1 - I80,46,7.51,11,Project 4.1 - I-80,0,0,Sensor,58831
+EB,1,0,41.283183,-95.782867,CBDS 25 EB,0.645,j,Group 5 - 4.1 - I80,47,8.8,15,Project 4.1 - I-80,0,0,Sensor,60152
+WB,2,0,41.283183,-95.782867,CBDS 25 WB,0.645,j,Group 5 - 4.1 - I80,48,8.8,12,Project 4.1 - I-80,0,0,Sensor,60152
+NB,1,0,41.31748,-93.77894,IWZ3073 - I-35 NB @ MM 53.63,1.96,5b,Group 5b and 5.4,1,53.63,1,Project 5b/5.4,1,1,Sensor,62333
+SB,2,0,41.317426,-93.779496,IWZ3073 - I-35 SB @ MM 53.63,1.96,5b,Group 5b and 5.4,2,53.63,1,Project 5b/5.4,1,0,Sensor,62333
+NB,1,0,41.327493,-93.77969,IWZ 3520 NB,1.95,5b,Group 5b and 5.4,3,54,2,Project 5b/5.4,1,0,Sensor,62993
+SB,2,0,41.327503,-93.780417,IWZ 3520 SB,1.95,5b,Group 5b and 5.4,4,54,2,Project 5b/5.4,1,1,Sensor,62992
+NB,1,0,41.346667,-93.779167,IWZ 3063 NB,1,5b,Group 5b and 5.4,5,54.9,3,Project 5b/5.4,1,0,Sensor,64313
+SB,2,0,41.346661,-93.779403,IWZ 3063 SB,1,5b,Group 5b and 5.4,6,54.9,3,Project 5b/5.4,1,1,Sensor,64313
+NB,1,0,41.361938,-93.780089,IWZ 3084 NB,0.55,5b,Group 5b and 5.4,7,56,4,Project 5b/5.4,1,0,Sensor,65632
+SB,2,0,41.361929,-93.780318,IWZ 3084 SB,0.55,5b,Group 5b and 5.4,8,56,4,Project 5b/5.4,1,1,Sensor,65632
+NB,1,0,41.373877,-93.780449,IWZ629 - I-35 NB @ MM 57.55,2.585,5b,Group 5b and 5.4,9,57.55,5,Project 5b/5.4,1,0,Sensor,66292
+SB,2,0,41.37389,-93.78105,IWZ629 - I-35 SB @ MM 57.55,2.585,5b,Group 5b and 5.4,10,57.55,5,Project 5b/5.4,1,1,Sensor,66292
+NB,1,0,41.392145,-93.780338,IWZ3093 - I-35 NB @ MM 58.8,1.775,5b,Group 5b and 5.4,11,58.8,6,Project 5b/5.4,1,0,Sensor,67612
+SB,2,0,41.39217,-93.78089,IWZ3093 - I-35 SB @ MM 58.8,1.775,5b,Group 5b and 5.4,12,58.8,6,Project 5b/5.4,1,1,Sensor,67612
+NB,1,0,40.53759,-93.95653,IWZ3554 - I-35 NB @ MM 111.4 (IL,1.2,5d,Group 5d,1,-3.2,1,Project 5d,1,1,Sensor,10835
+SB,2,0,40.53765,-93.957129,IWZ3554 - I-35 SB @ MM 111.4 (IL,4.475,5d,Group 5d,2,-3.2,1,Project 5d,1,0,Sensor,10835
+NB,1,0,40.54743,-93.9537,IWZ3085 - I-35 NB @ MM 112 (IL),2.6,5d,Group 5d,3,-2.4,2,Project 5d,1,1,Sensor,11495
+SB,2,0,40.547502,-93.954378,IWZ3085 - I-35 SB @ MM 112 (IL),0.4,5d,Group 5d,4,-2.4,2,Project 5d,1,0,Sensor,11495
+NB,1,0,40.573961,-93.93848,IWZ3556 - I-35 NB @ IA-MO border,1.6,5d,Group 5d,5,0,3,Project 5d,1,1,Sensor,13477
+SB,2,0,40.574094,-93.938814,IWZ3556 - I-35 SB @ IA-MO border,1,5d,Group 5d,6,0,3,Project 5d,1,0,Sensor,13477
+NB,1,0,40.6057,-93.907819,IWZ3555 - I-35 NB @ south of US,4.475,5d,Group 5d,7,2,4,Project 5d,1,1,Sensor,15460
+SB,2,0,40.605738,-93.908017,IWZ3555 - I-35 SB @ south of US,3.275,5d,Group 5d,8,2,4,Project 5d,1,0,Sensor,15460
+NB,1,0,40.657131,-93.856725,IWZ3527 - I-35 NB @ Decatur Rest,2.275,5d,Group 5d,9,6.55,5,Project 5d,1,1,Sensor,18765
+SB,2,0,40.657282,-93.857252,IWZ3527 - I-35 SB @ Decatur Rest,2.6,5d,Group 5d,10,6.55,5,Project 5d,1,0,Sensor,18765
+EB,1,0,40.819661,-91.182641,IWZ 3066 EB,0.8,5f,Group 5f,11,259.6,1,Project 5f,1,0,Sensor,29592
+WB,2,0,40.820404,-91.182151,IWZ 3066 WB,0.8,5f,Group 5f,10,259.6,1,Project 5f,1,1,Sensor,30252
+EB,1,0,40.817838,-91.144389,IWZ 3507 EB,1.35,5f,Group 5f,12,261.2,2,Project 5f,1,0,Sensor,29596
+WB,2,0,40.818358,-91.143984,IWZ 3507 WB,1.35,5f,Group 5f,9,261.2,2,Project 5f,1,1,Sensor,29596
+EB,1,0,40.815747,-91.114556,IWZ 3087 EB,1.05,5f,Group 5f,13,262.3,3,Project 5f,1,0,Sensor,29599
+WB,2,0,40.816484,-91.11442,IWZ 3087 WB,1.05,5f,Group 5f,8,262.3,3,Project 5f,1,1,Sensor,29599
+EB,1,0,40.813455,-91.10113,IWZ 3516 EB,0.5,5f,Group 5f,14,263.3,4,Project 5f,1,0,Sensor,29600
+WB,2,0,40.81388,-91.100851,IWZ 3516 WB,0.5,5f,Group 5f,7,263.3,4,Project 5f,1,1,Sensor,29600
+NB,1,0,42.374169,-96.3536,I-29 SDSC-01 NB,0.825,g,Group 6 - 3.2 3a 3b - I29,3,139.35,1,Project 3ab,0,0,Sensor,132035
+SB,2,0,42.373044,-96.352844,I-29 SDSC-01 SB,0.825,g,Group 6 - 3.2 3a 3b - I29,2,139.35,1,Project 3ab,0,0,Sensor,132035
+NB,1,0,42.397017,-96.367033,I-29 SDSC-02 NB,1.2,g,Group 6 - 3.2 3a 3b - I29,5,141,2,Project 3ab,0,0,Sensor,133354
+SB,2,0,42.397017,-96.367033,I-29 SDSC-02 SB,1.2,g,Group 6 - 3.2 3a 3b - I29,6,141,2,Project 3ab,0,0,Sensor,133354
+NB,1,0,42.40775,-96.366,I-29 SDSC-03 NB,1.2,g,Group 6 - 3.2 3a 3b - I29,7,141.75,3,Project 3ab,0,0,Sensor,134014
+SB,2,0,42.40775,-96.366,I-29 SDSC-03 SB,1.2,g,Group 6 - 3.2 3a 3b - I29,8,141.75,3,Project 3ab,0,0,Sensor,134014
+NB,1,0,42.434756,-96.374921,I-29 SDSC-04 NB,1.275,g,Group 6 - 3.2 3a 3b - I29,14,143.4,4,Project 3ab,0,0,Sensor,135993
+SB,2,0,42.43472,-96.375341,I-29 SDSC-04 SB,1.275,g,Group 6 - 3.2 3a 3b - I29,15,143.4,4,Project 3ab,0,0,Sensor,135993
+NB,1,0,42.442033,-96.374867,I-29 SDSC-05 NB,0.755,g,Group 6 - 3.2 3a 3b - I29,17,144.3,5,Project 3ab,0,0,Sensor,136653
+SB,2,0,42.442033,-96.374867,I-29 SDSC-05 SB,0.755,g,Group 6 - 3.2 3a 3b - I29,18,144.3,5,Project 3ab,0,0,Sensor,136653
+NB,1,0,42.452221,-96.37575,I-29 SDSC-08 NB,0.725,g,Group 6 - 3.2 3a 3b - I29,22,144.91,6,Project 3ab,0,1,Sensor,137313
+SB,2,0,42.452177,-96.37575,I-29 SDSC-08 SB,0.725,g,Group 6 - 3.2 3a 3b - I29,21,144.91,6,Project 3ab,0,0,Sensor,137313
+NB,1,0,42.465139,-96.380015,I-29 SCDS-29 NB,0.695,g,Group 6 - 3.2 3a 3b - I29,27,145.75,7,Project 3ab,0,1,Sensor,137973
+SB,2,0,42.465073,-96.380234,I-29 SCDS-29 SB,0.695,g,Group 6 - 3.2 3a 3b - I29,28,145.75,7,Project 3ab,0,0,Sensor,137973
+NB,1,0,42.47055,-96.381503,I-29 SDSC-09 NB,0.865,g,Group 6 - 3.2 3a 3b - I29,29,146.3,8,Project 3ab,0,1,Sensor,138632
+SB,2,0,42.47055,-96.381503,I-29 SDSC-09 SB,0.865,g,Group 6 - 3.2 3a 3b - I29,30,146.3,8,Project 3ab,0,0,Sensor,138632
+NB,1,0,42.48628,-96.39409,I-29 SCDS-31 NB,0.775,g,Group 6 - 3.2 3a 3b - I29,391,147.48,9,Project 3ab,0,1,Sensor,139291
+SB,2,0,42.48597,-96.39441,I-29 SCDS-31 SB,0.775,g,Group 6 - 3.2 3a 3b - I29,392,147.48,9,Project 3ab,0,0,Sensor,139291
+NB,1,0,42.488633,-96.400033,I-29 SDSC-11 NB T,0.41,g,Group 6 - 3.2 3a 3b - I29,41,147.85,10,Project 3ab,1,1,Sensor,139291
+SB,2,0,42.488633,-96.400033,I-29 SDSC-11 SB T,0.41,g,Group 6 - 3.2 3a 3b - I29,42,147.85,10,Project 3ab,1,0,Sensor,139290
+NB,1,0,42.489597,-96.408422,I-29 SDSC-12 NB,0.425,g,Group 6 - 3.2 3a 3b - I29,46,148.3,11,Project 3ab,0,0,Sensor,139290
+SB,2,0,42.489597,-96.408422,I-29 SDSC-12 SB,0.425,g,Group 6 - 3.2 3a 3b - I29,47,148.3,11,Project 3ab,0,1,Sensor,139290
+NB,1,0,42.491953,-96.415821,I-29 SDSC-13 NB,0.265,g,Group 6 - 3.2 3a 3b - I29,50,148.7,12,Project 3ab,0,0,Sensor,139949
+SB,2,0,42.491845,-96.415842,I-29 SDSC-13 SB,0.265,g,Group 6 - 3.2 3a 3b - I29,51,148.7,12,Project 3ab,0,1,Sensor,139949
+NB,1,0,42.49213,-96.41834,DMTT06 - I-29 NB @ MM 148.83 T,0.175,g,Group 6 - 3.2 3a 3b - I29,52,148.83,13,Project 3ab,1,0,Sensor,139949
+SB,2,0,42.49199,-96.41834,DMTT06 - I-29 SB @ MM 148.83 T,0.175,g,Group 6 - 3.2 3a 3b - I29,53,148.83,13,Project 3ab,1,1,Sensor,139949
+NB,1,0,42.4922,-96.42477,I-29 SCDS-30 NB,0.61,g,Group 6 - 3.2 3a 3b - I29,54,149.05,14,Project 3ab,0,0,Sensor,139948
+SB,2,0,42.49177,-96.42472,I-29 SCDS-30 SB,0.61,g,Group 6 - 3.2 3a 3b - I29,55,149.05,14,Project 3ab,0,1,Sensor,139948
+NB,1,0,42.491501,-96.442117,I-29 SCDS-15 NB,0.725,g,Group 6 - 3.2 3a 3b - I29,60,150.05,15,Project 3ab,0,0,Sensor,139946
+SB,2,0,42.491507,-96.442132,I-29 SCDS-15 SB,0.725,g,Group 6 - 3.2 3a 3b - I29,61,150.05,15,Project 3ab,0,1,Sensor,139946
+NB,1,0,42.492661,-96.451133,I-29 SCDS-26 NB,0.565,g,Group 6 - 3.2 3a 3b - I29,62,150.5,16,Project 3ab,0,0,Sensor,139945
+SB,2,0,42.492502,-96.451207,I-29 SCDS-26 SB,0.565,g,Group 6 - 3.2 3a 3b - I29,63,150.5,16,Project 3ab,0,0,Sensor,139945
+NB,1,0,42.49365,-96.4629,I-29 SDSC-16 NB,0.54,g,Group 6 - 3.2 3a 3b - I29,64,151.18,17,Project 3ab,0,0,Sensor,139944
+SB,2,0,42.491984,-96.46657,I-29 SDSC-16 SB,0.54,g,Group 6 - 3.2 3a 3b - I29,65,151.18,17,Project 3ab,0,0,Sensor,139944
+NB,1,0,42.493958,-96.471704,I-29 SDSC-17 EB,75.215,g,Group 6 - 3.2 3a 3b - I29,66,151.58,18,Project 3ab,0,0,Sensor,139943
+SB,2,0,42.493958,-96.471704,I-29 SDSC-17 WB,75.215,g,Group 6 - 3.2 3a 3b - I29,67,151.58,18,Project 3ab,0,0,Sensor,139943
+EB,1,0,42.445121,-96.366577,US 20 SDSC-18 EB,75.04,h,Group 6 - 3.2 3a 3b - US20,2,0.75,1,Project 3ab,0,0,Sensor,136654
+WB,2,0,42.445529,-96.366599,US 20 SDSC-18 WB,75.04,h,Group 6 - 3.2 3a 3b - US20,3,0.75,1,Project 3ab,0,1,Sensor,136654
+EB,1,0,42.443619,-96.353037,US 20 SDSC-19 EB,0.63,h,Group 6 - 3.2 3a 3b - US20,4,1.5,2,Project 3ab,0,0,Sensor,136655
+WB,2,0,42.443855,-96.353016,US 20 SDSC-19 WB,0.65,h,Group 6 - 3.2 3a 3b - US20,5,1.5,2,Project 3ab,0,0,Sensor,136655
+EB,1,0,42.443726,-96.341643,US 20 SDSC-20 NB,0.55,h,Group 6 - 3.2 3a 3b - US20,6,2.01,3,Project 3ab,0,0,Sensor,136656
+WB,2,0,42.444327,-96.341879,US 20 SDSC-20 SB,0.55,h,Group 6 - 3.2 3a 3b - US20,7,2.05,3,Project 3ab,0,0,Sensor,136656
+EB,1,0,42.450315,-96.335269,US 20 SDSC-21 EB,0.595,h,Group 6 - 3.2 3a 3b - US20,8,2.6,4,Project 3ab,0,0,Sensor,137317
+WB,2,0,42.450345,-96.335589,US 20 SDSC-21 WB,0.575,h,Group 6 - 3.2 3a 3b - US20,10,2.6,4,Project 3ab,0,0,Sensor,137317
+EB,1,0,42.458038,-96.329262,US 20 SDSC-22 NB,0.8,h,Group 6 - 3.2 3a 3b - US20,12,3.2,5,Project 3ab,0,0,Sensor,137317
+WB,2,0,42.458253,-96.329691,US 20 SDSC-22 SB,0.8,h,Group 6 - 3.2 3a 3b - US20,13,3.2,5,Project 3ab,0,0,Sensor,137317
+EB,1,0,42.470076,-96.32349,US 20 SDSC-23 NB,0.5,h,Group 6 - 3.2 3a 3b - US20,14,4.2,6,Project 3ab,0,0,Sensor,138638
+WB,2,0,42.470119,-96.323898,US 20 SDSC-23 SB,0.5,h,Group 6 - 3.2 3a 3b - US20,15,4.2,6,Project 3ab,0,0,Sensor,138638
+EB,1,0,41.695649,-92.210834,IWZ3551-EB,0.5,6a,Group 6a,21,209,1,Project 6a,1,1,Sensor,0
+WB,2,0,41.696173,-92.210849,IWZ3551-WB,0.5,6a,Group 6a,17,209,1,Project 6a,1,0,Sensor,0
+EB,1,0,41.695758,-92.172658,IWZ3545-EB,1,6a,Group 6a,22,211,2,Project 6a,1,1,Sensor,0
+WB,2,0,41.696378,-92.172665,IWZ3545-WB,1,6a,Group 6a,18,211,2,Project 6a,1,0,Sensor,0
+EB,1,0,41.695577,-92.152854,IWZ3546-EB,3.5,6a,Group 6a,20,212,3,Project 6a,1,0,Sensor,0
+WB,2,0,41.696232,-92.152861,IWZ3546-WB,3.5,6a,Group 6a,16,212,3,Project 6a,1,1,Sensor,0
+EB,1,0,41.69276,-92.113902,IWZ3553-EB,2,6a,Group 6a,19,216,4,Project 6a,1,0,Sensor,0
+WB,2,0,41.693324,-92.113842,IWZ3553-WB,2,6a,Group 6a,15,216,4,Project 6a,1,1,Sensor,0
+NB,1,0,41.590319,-90.522906,IWZ3080-NB,0.65,6c,Group 6c,23,0.4,1,Project 6c,1,1,Sensor,81138
+SB,2,0,41.590191,-90.523782,IWZ3080-SB,0.65,6c,Group 6c,29,0.4,1,Project 6c,1,0,Sensor,81138
+NB,1,0,41.571016,-90.521794,I-74 NB from Crow Creek to 53rd,1.1,6c,Group 6c,24,1.7,2,Project 6c,0,1,Sensor,79818
+SB,2,0,41.570944,-90.522576,I-74 SB from 53rd to 46th,1.1,6c,Group 6c,30,1.7,2,Project 6c,0,0,Sensor,79818
+NB,1,0,41.559345,-90.522069,I-74 NB from Spruce Hills to Cro,0.7,6c,Group 6c,25,2.6,3,Project 6c,0,1,Sensor,78498
+SB,2,0,41.560067,-90.522819,I-74 SB from 46th to Kimberly,0.7,6c,Group 6c,31,2.6,3,Project 6c,0,0,Sensor,79158
+NB,1,0,41.551497,-90.521562,I-74 NB from Middle to Spruce Hi,0.55,6c,Group 6c,26,3.1,4,Project 6c,0,1,Sensor,78498
+SB,2,0,41.550959,-90.521462,I-74 SB from Kimberly to Middle,0.55,6c,Group 6c,32,3.1,4,Project 6c,0,0,Sensor,78498
+NB,1,0,41.543663,-90.518319,I-74 NB from Lincoln to Middle,0.3,6c,Group 6c,27,3.7,5,Project 6c,0,0,Sensor,77839
+SB,2,0,41.543205,-90.518205,I-74 SB from Middle to Lincoln,0.3,6c,Group 6c,33,3.7,5,Project 6c,0,0,Sensor,77839
+EB,1,0,41.596027,-90.507076,IWZ3076-EB,1,6d,Group 6d,48,299,1,Project 6d,1,1,Sensor,81140
+WB,2,0,41.596622,-90.507079,IWZ3076-WB,1,6d,Group 6d,41,299,1,Project 6d,1,0,Sensor,81140
+EB,1,0,41.596726,-90.463715,IWZ3079-EB,1.5,6d,Group 6d,47,301,2,Project 6d,1,1,Sensor,81144
+WB,2,0,41.597322,-90.463733,IWZ3079-WB,1.5,6d,Group 6d,40,301,2,Project 6d,1,0,Sensor,81144
+EB,1,0,41.59723,-90.434399,IWZ3542-EB,1,6d,Group 6d,46,302,3,Project 6d,1,0,Sensor,81147
+WB,2,0,41.597789,-90.434393,IWZ3542-WB,1,6d,Group 6d,39,302,3,Project 6d,1,1,Sensor,81147
+EB,1,0,41.597268,-90.425021,IWZ3077-EB,1,6d,Group 6d,45,303,4,Project 6d,1,0,Sensor,81148
+WB,2,0,41.597998,-90.425042,IWZ3077-WB,1,6d,Group 6d,38,303,4,Project 6d,1,1,Sensor,81148
+EB,1,0,41.596528,-90.402363,IWZ3068-EB,1.25,6d,Group 6d,44,304,5,Project 6d,1,0,Sensor,81150
+WB,2,0,41.597199,-90.40226,IWZ3068-WB,1.25,6d,Group 6d,37,304,5,Project 6d,1,1,Sensor,81150
+EB,1,0,41.594328,-90.381552,IWZ3088-EB,1,6d,Group 6d,43,305.5,6,Project 6d,1,0,Sensor,81152
+WB,2,0,41.59495,-90.381469,IWZ3088-WB,1,6d,Group 6d,36,305.5,6,Project 6d,1,1,Sensor,81152
+EB,1,0,41.58992,-90.371488,IWZ3078-EB,0.25,6d,Group 6d,42,306,7,Project 6d,1,0,Sensor,80493
+WB,2,0,41.590177,-90.370569,IWZ3078-WB,0.25,6d,Group 6d,35,306,7,Project 6d,1,1,Sensor,81153
+NB,1,0,41.723393,-91.642592,I-380 NB North of US 6 to 270th,1,6e,Group 6e,55,2,1,Project 6e,0,1,Sensor,89606
+SB,2,0,41.723393,-91.642592,I-380 SB 270th St. to North of U,1,6e,Group 6e,62,2,1,Project 6e,0,0,Sensor,89606
+NB,1,0,41.748819,-91.639173,I-380 NB 270th St. to North of P,2,6e,Group 6e,54,4,2,Project 6e,0,1,Sensor,90927
+SB,2,0,41.748197,-91.645074,I-380 SB North of Penn to 270th,2,6e,Group 6e,61,4,2,Project 6e,0,0,Sensor,90926
+NB,1,0,41.77577,-91.642756,I-380 NB North of Penn to North,1.25,6e,Group 6e,53,6,3,Project 6e,0,1,Sensor,92906
+SB,2,0,41.775599,-91.649516,I-380 SB North of Swan Lake to N,1.25,6e,Group 6e,60,6,3,Project 6e,0,0,Sensor,92906
+NB,1,0,41.792083,-91.646498,IWZ2005 - I-380 NB @ MM 6.82,0.375,6e,Group 6e,52,6.5,4,Project 6e,1,1,Sensor,94226
+SB,2,0,41.792079,-91.647208,IWZ2005 - I-380 SB @ MM 6.82,0.375,6e,Group 6e,59,6.5,4,Project 6e,1,0,Sensor,94226
+NB,1,0,41.801133,-91.642928,I-380 NB North of Swan Lake to N,0.75,6e,Group 6e,51,6.75,5,Project 6e,0,1,Sensor,94886
+SB,2,0,41.800661,-91.649902,I-380 SB North of River to North,0.75,6e,Group 6e,58,6.75,5,Project 6e,0,0,Sensor,94886
+NB,1,0,41.811168,-91.649686,IWZ 3062 NB,1.125,6e,Group 6e,50,8,6,Project 6e,1,1,Sensor,95546
+SB,2,0,41.81098,-91.65034,IWZ 3062 SB,1.125,6e,Group 6e,57,8,6,Project 6e,1,0,Sensor,95545
+NB,1,0,41.82523,-91.653507,I-380 NB North of River to 140th,0.5,6e,Group 6e,49,9,7,Project 6e,0,0,Sensor,96205
+SB,2,0,41.824436,-91.661339,I-380 SB 140th St. to North of R,0.5,6e,Group 6e,56,9,7,Project 6e,0,0,Sensor,96204
+NB,1,0,41.922373,-91.670288,I-380 CRDS04 NB,0.15,6gh,Group 6gh,1,16,1,Project 6gh,1,1,Sensor,102803
+SB,2,0,41.922383,-91.670594,I-380 CRDS04 SB,0.15,6gh,Group 6gh,9,16,1,Project 6gh,1,0,Sensor,102803
+NB,1,0,41.926586,-91.669819,I-380 CRDS05 NB,0.25,6gh,Group 6gh,2,16.3,2,Project 6gh,1,1,Sensor,102804
+SB,2,0,41.926575,-91.67013,I-380 CRDS05 SB,0.25,6gh,Group 6gh,10,16.3,2,Project 6gh,1,0,Sensor,102803
+NB,1,0,41.93013,-91.669431,I-380 CRDS06 NB,0.35,6gh,Group 6gh,3,16.5,3,Project 6gh,1,1,Sensor,103464
+SB,2,0,41.930131,-91.66975,I-380 CRDS06 SB,0.35,6gh,Group 6gh,11,16.5,3,Project 6gh,1,0,Sensor,103464
+NB,1,0,41.935362,-91.668843,I-380 CRDS08 NB,0.45,6gh,Group 6gh,4,17,4,Project 6gh,1,1,Sensor,103464
+SB,2,0,41.935381,-91.669173,I-380 CRDS08 SB,0.45,6gh,Group 6gh,12,17,4,Project 6gh,1,0,Sensor,103464
+NB,1,0,41.942217,-91.669755,I-380 CRDS09 NB,0.4,6gh,Group 6gh,5,17.4,5,Project 6gh,1,0,Sensor,104124
+SB,2,0,41.942193,-91.670105,I-380 CRDS09 SB,0.4,6gh,Group 6gh,13,17.4,5,Project 6gh,1,1,Sensor,104123
+NB,1,0,41.948064,-91.670818,I-380 CRDS10 NB,0.4,6gh,Group 6gh,6,17.8,6,Project 6gh,1,0,Sensor,104123
+SB,2,0,41.948069,-91.671123,I-380 CRDS10 SB,0.4,6gh,Group 6gh,14,17.8,6,Project 6gh,1,1,Sensor,104123
+NB,1,0,41.953294,-91.670765,I-380 CRDS11 NB,0.45,6gh,Group 6gh,7,18.2,7,Project 6gh,1,0,Sensor,104783
+SB,2,0,41.953292,-91.671052,I-380 CRDS11 SB,0.45,6gh,Group 6gh,15,18.2,7,Project 6gh,1,1,Sensor,104783
+NB,1,0,41.960379,-91.670648,I-380 CRDS12 NB,0.25,6gh,Group 6gh,8,18.7,8,Project 6gh,1,0,Sensor,105443
+SB,2,0,41.960373,-91.670933,I-380 CRDS12 SB,0.25,6gh,Group 6gh,16,18.7,8,Project 6gh,1,1,Sensor,105443
+EB,1,0,41.570944,-90.522576,I-74 SB from 53rd to 46th,0.395,n,Group 8 - 6.2 - I74,4,1.75,1,Project 6.2,0,0,Sensor,79818
+WB,2,0,41.571016,-90.521794,I-74 NB from Crow Creek to 53rd,0.395,n,Group 8 - 6.2 - I74,3,1.75,1,Project 6.2,0,0,Sensor,79818
+EB,1,0,41.560067,-90.522819,I-74 SB from 46th to Kimberly,0.69,n,Group 8 - 6.2 - I74,5,2.54,2,Project 6.2,0,1,Sensor,79158
+WB,2,0,41.559345,-90.522069,I-74 NB from Spruce Hills to Cro,0.69,n,Group 8 - 6.2 - I74,6,2.54,2,Project 6.2,0,0,Sensor,78498
+EB,1,0,41.550959,-90.521462,I-74 SB from Kimberly to Middle,0.715,n,Group 8 - 6.2 - I74,8,3.13,3,Project 6.2,0,1,Sensor,78498
+WB,2,0,41.551497,-90.521562,I-74 NB from Middle to Spruce Hi,0.715,n,Group 8 - 6.2 - I74,7,3.13,3,Project 6.2,0,0,Sensor,78498
+EB,1,0,41.543205,-90.518205,I-74 SB from Middle to Lincoln,0.725,n,Group 8 - 6.2 - I74,10,3.97,4,Project 6.2,0,1,Sensor,77839
+WB,2,0,41.543663,-90.518319,I-74 NB from Lincoln to Middle,0.725,n,Group 8 - 6.2 - I74,9,3.97,4,Project 6.2,0,0,Sensor,77839
+EB,1,0,41.535161,-90.516178,I-74 SB from Lincoln to Holmes,0.56,n,Group 8 - 6.2 - I74,12,4.58,5,Project 6.2,0,1,Sensor,77179
+WB,2,0,41.53271,-90.515247,I-74 NB from Holmes to Lincoln,0.56,n,Group 8 - 6.2 - I74,13,4.58,5,Project 6.2,0,0,Sensor,77179
+EB,1,0,41.523522,-90.513692,I-74 SB from Holmes to Isle Park,0.315,n,Group 8 - 6.2 - I74,15,5.09,6,Project 6.2,0,1,Sensor,76519
+WB,2,0,41.5241,-90.513294,I-74 NB from Isle Park to Holmes,0.315,n,Group 8 - 6.2 - I74,14,5.09,6,Project 6.2,0,0,Sensor,76519
+EB,1,0,41.520642,-90.513461,I-74 SB from Isle Parkway to Nor,0.16,n,Group 8 - 6.2 - I74,17,5.21,7,Project 6.2,0,0,Sensor,76519
+WB,2,0,41.520668,-90.513062,I-74 NB from North Tower to Isle,0.22,n,Group 8 - 6.2 - I74,16,5.21,7,Project 6.2,0,0,Sensor,76519
+EB,1,0,41.518611,-90.513418,I-74 SB from North Tower to Sout,0.16,n,Group 8 - 6.2 - I74,19,5.41,8,Project 6.2,0,0,Sensor,75859
+EB,1,0,41.51708,-90.513256,I-74 SB from South Tower to Toll,0.12,n,Group 8 - 6.2 - I74,20,5.53,9,Project 6.2,0,0,Sensor,75859
+WB,2,0,41.517076,-90.513071,I-74 NB from Toll Plaza to South,0.22,n,Group 8 - 6.2 - I74,21,5.53,8,Project 6.2,0,0,Sensor,75859
+EB,1,0,41.514658,-90.513005,I-74 SB from Toll Plaza to 1st A,0.155,n,Group 8 - 6.2 - I74,24,5.65,10,Project 6.2,0,0,Sensor,75859
+WB,2,0,41.514772,-90.512868,I-74 NB from 1st Ave to Toll Pla,0.155,n,Group 8 - 6.2 - I74,23,5.65,9,Project 6.2,0,0,Sensor,75859
+EB,1,0,41.511704,-90.512657,I-74 SB from 1st Ave to 4th Ave,0.21,n,Group 8 - 6.2 - I74,25,5.84,11,Project 6.2,0,0,Sensor,#N/A
+WB,2,0,41.511422,-90.512366,I-74 NB from 4th Ave to 1st Ave,0.21,n,Group 8 - 6.2 - I74,26,5.84,10,Project 6.2,0,1,Sensor,75859
+EB,1,0,41.508562,-90.50979,I-74 SB from 4th Ave to 7th Ave,0.325,n,Group 8 - 6.2 - I74,28,6.07,12,Project 6.2,0,0,Sensor,#N/A
+WB,2,0,41.508586,-90.509598,I-74 NB from 7th Ave to 4th Ave,0.325,n,Group 8 - 6.2 - I74,27,6.07,11,Project 6.2,0,1,Sensor,#N/A
+EB,1,0,41.502147,-90.508516,I-74 SB from 7th Ave to 12th Ave,0.46,n,Group 8 - 6.2 - I74,30,6.49,13,Project 6.2,0,0,Sensor,75200
+WB,2,0,41.501697,-90.508085,I-74 NB from 12th Ave to 7th Ave,0.46,n,Group 8 - 6.2 - I74,31,6.49,12,Project 6.2,0,1,Sensor,75200
+EB,1,0,41.4944,-90.506575,I-74 SB from 12th Ave to Ave of,0.25,n,Group 8 - 6.2 - I74,32,6.99,14,Project 6.2,0,0,Sensor,74540
+WB,2,0,41.493539,-90.505899,I-74 NB from Ave of the Cities t,0.25,n,Group 8 - 6.2 - I74,33,6.99,13,Project 6.2,0,1,Sensor,74540
