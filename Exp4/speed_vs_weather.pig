@@ -33,4 +33,4 @@ dataout = LIMIT data 100;
 
 dump dataout;
 
-STORE data INTO 'Shuo/testoutput2';
+STORE data INTO 'Shuo/output_Exp4';
