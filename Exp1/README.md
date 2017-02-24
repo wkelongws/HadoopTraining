@@ -74,7 +74,7 @@ hdfs dfs -cat your/output/path/part-00000.txt | head -100
 
 * download from HDFS to "Local"
 
-hdfs dfs -copyToLocal your/output/path/part-00000.txt
+hdfs dfs -copyToLocal your/output/path/part-00000
 
 * download from "Local" to your machine
 
