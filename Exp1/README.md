@@ -58,23 +58,23 @@ hdfs dfs -ls your/output/path
 
 * check the size of the file:
 
-hdfs dfs -du -h your/output/path/part-00000.txt
+hdfs dfs -du -h your/output/path/part-00000
 
 * check how many lines are in the file:
 
-hdfs dfs -cat your/output/path/part-00000.txt | wc -l
+hdfs dfs -cat your/output/path/part-00000 | wc -l
 
 compare to the number of lines in the input file, it is roughly 15 times smaller. Because we reaggregated 20s data into 5min data
 
 * see the top 100 lines in the file:
 
-hdfs dfs -cat your/output/path/part-00000.txt | head -100
+hdfs dfs -cat your/output/path/part-00000 | head -100
 
 ###step5: Download the result to your machine
 
 * download from HDFS to "Local"
 
-hdfs dfs -copyToLocal your/output/path/part-00000.txt
+hdfs dfs -copyToLocal your/output/path/part-00000
 
 * download from "Local" to your machine
 
