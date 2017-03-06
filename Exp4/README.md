@@ -1,8 +1,8 @@
-# Exp2 Hourly avgspeed of Inrix using Pig
+# Exp2 Speed vs. Weather
 
 ##Find hourly average speed using Inrix data
 
-###step1: check the input data
+###step1: Match the speed with weather for a given work zone using both wavetronix data and weather data
 
 we will use
 1 day weather data and your reaggregated 5min wavetronix data from Experiment 1
