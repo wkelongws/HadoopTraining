@@ -1,0 +1,329 @@
+coded_direction,Name,Group
+1,I-80 EB Between US65N and US65S,c
+2,I-80 WB Between US65N and US65S,c
+1,I-80 EB @ 34th Ave NW,c
+2,I-80 WB @ 34th Ave NW,c
+1,I-80 EB @ Hubbell - Altoona,c
+2,I-80 WB @ Hubbell - Altoona,c
+1,I-80 EB @ DMS - Altoona,c
+2,I-80 WB @ DMS - Altoona,c
+1,I-80 EB East of 1st Ave N - Alto,c
+2,I-80 WB East of 1st Ave N - Alto,c
+1,I-80 EB @ NE 62nd Ave - Altoona,c
+2,I-80 WB @ NE 62nd Ave - Altoona,c
+1,IWZ 3089 EB,c
+2,IWZ 3089 WB,c
+1,IWZ 3518 EB,c
+2,IWZ 3518 WB,c
+1,IWZ2992 - US 20 WB @ MM 152.2,1a
+2,IWZ2992 - US 20 EB @ MM 152.2,1a
+1,IWZ2990 - US 20 WB @ I-35 SB On,1a
+2,IWZ2990 - US 20 EB @ I-35 SB Off,1a
+1,IWZ2999 - US 20 WB @ Vail Ave,1a
+2,IWZ2999 - US 20 EB @ Vail Ave,1a
+1,IWZ2994 - US 20 WB @ MM 154.15,1a
+2,IWZ2994 - US 20 EB @ MM 154.15,1a
+1,I-80 EB at 84th Street,1c
+1,IWZ2995 - I-80 EB @ MM 172.50,1c
+1,I-80 EB at Hwy T22,1c
+1,I-80 EB at 108th Street,1c
+1,IWZ2987 - I-80 EB @ MM 175.55,1c
+1,IWZ3091 - I-80 EB @ MM 176.35,1c
+1,IWZ3062 - I-80 EB @ MM 177.00,1c
+1,IWZ2005 - I-80 EB @ MM 178.20,1c
+1,IWZ3069 - I-80 EB @ Hwy T38 On R,1c
+1,IWZ3309 - I-80 EB @ Grinnell RA,1c
+2,I-80 WB at 84th Street,1c
+2,IWZ2995 - I-80 WB @ MM 172.50,1c
+2,I-80 WB at Hwy T22,1c
+2,I-80 WB at 108th Street,1c
+2,IWZ2987 - I-80 WB @ MM 175.55,1c
+2,IWZ3091 - I-80 WB @ MM 176.35,1c
+2,IWZ3062 - I-80 WB @ MM 177.00,1c
+2,IWZ2005 - I-80 WB @ MM 178.20,1c
+2,IWZ3069 - I-80 WB @ Hwy T38 Off,1c
+2,IWZ3309 - I-80 WB @ Grinnell RA,1c
+1,IWZ 3075 NB,1q
+2,IWZ 3075 SB,1q
+1,IWZ2989 - US 65 NB @ MM 62,1r
+2,IWZ2989 - US 65 SB @ MM 62,1r
+1,IWZ3083 - US 65 NB @ MM 63,1r
+2,IWZ3083 - US 65 SB @ MM 63,1r
+1,I-35 NB @ NE 36th St,1t
+2,I-35 SB @ NE 36th St,1t
+1,I-35 NB @ NE 126th Ave,1t
+2,I-35 SB @ NE 126th Ave,1t
+1,I-35 NB @ NE 142nd Ave,1t
+2,I-35 SB @ NE 142nd Ave,1t
+1,I-35 NB @ NE 158th Ave,1t
+2,I-35 SB @ NE 158th Ave,1t
+1,I-35 NB @ IA 210,1t
+2,I-35 SB @ IA 210,1t
+2,I-35 SB @ Heart of Iowa Nature T,1t
+1,I-35 NB @ MP 105.7,1t
+2,I-35 SB @ MP 105.7,1t
+1,I-35 NB @ MP 107.8,1t
+2,I-35 SB @ MP 107.8,1t
+1,I-35 NB @ County Rd E57,1t
+2,I-35 SB @ County Rd E57,1t
+1,I-35 NB S of US 30,1t
+2,I-35 SB S of US 30,1t
+1,I-35 NB @ US 30 North,1t
+2,I-35 SB @ US 30 North,1t
+1,I-35 NB @ US 30 South,1t
+2,I-35 SB @ US 30 South,1t
+1,I-35 NB @ E Lincoln Way,1t
+2,I-35 SB @ E Lincoln Way,1t
+1,I-35 NB @ E 13th St,1t
+2,I-35 SB @ E 13th St,1t
+1,I-35 NB @ County Highway E29,1t
+2,I-35 SB @ County Highway E29,1t
+1,IWZ3546 - I-35 NB @ MM 183.2,2a
+1,IWZ3053 - I-35 NB @ MM 185.1,2a
+1,IWZ3553 - I-35 NB @ MM 186.05,2a
+2,IWZ3546 - I-35 SB @ MM 183.2,2a
+2,IWZ3053 - I-35 SB @ MM 185.1,2a
+2,IWZ3553 - I-35 SB @ MM 186.05,2a
+1,CBDS 26 NB,i
+2,CBDS 26 SB,i
+1,CBDS 52 NB,i
+2,CBDS 52 SB,i
+1,CBDS 27 NB,i
+2,CBDS 27 SB,i
+1,IWZ 3090 NB,i
+2,IWZ 3090 SB,i
+1,CBDS 28 NB,i
+2,CBDS 28 SB,i
+2,CBDS 18 SB from I-80 WB,i
+2,CBDS 16 EB Thru to I-29 SB,i
+1,CBDS 17 I-29 NB,i
+2,CBDS 17 I-29 SB,i
+1,CBDS 14 WB,i
+2,CBDS 14 EB,i
+2,I-80 CBDS 57 EB,i
+1,CBDS 12 WB,i
+2,CBDS 12 EB,i
+1,CBDS-59-WB,i
+2,CBDS 10 EB,i
+1,CBDS 10 WB,i
+1,I-80 CBDS 58 WB,i
+2,I-80 CBDS 56 EB,i
+1,I-80 CBDS 55 WB,i
+2,I-80 CBDS 55 EB,i
+2,CBDS 08 EB_2,i
+1,CBDS 05 I-29 NB,i
+1,CBDS 31 NB,i
+2,CBDS 31 SB,i
+1,CBDS 32 NB,i
+2,CBDS 32 SB,i
+1,CBDS 33 NB,i
+2,CBDS 33 SB,i
+1,CBDS 34 NB,i
+2,CBDS 34 SB,i
+2,CBDS 35 SB,i
+1,CBDS 37 NB,i
+2,CBDS 38 SB,i
+1,CBDS 40 NB,i
+2,CBDS 40 SB,i
+1,CBDS 41 NB,i
+2,CBDS 41 SB,i
+1,CBDS 42 NB,i
+2,CBDS 42 SB,i
+1,CBDS 43 NB,i
+2,CBDS 43 SB,i
+1,CBDS 44 NB,i
+2,CBDS 45 SB,i
+1,CBDS 01 I-80 EB,j
+2,CBDS 01 I-80 WB,j
+1,CBDS 08 EB_2,j
+2,I-80 CBDS 55 WB,j
+1,I-80 CBDS 55 EB,j
+1,I-80 CBDS 56 EB,j
+2,I-80 CBDS 58 WB,j
+1,CBDS 10 EB,j
+2,CBDS 10 WB,j
+1,CBDS 12 EB,j
+2,CBDS 12 WB,j
+1,I-80 CBDS 57 EB,j
+2,CBDS-59-WB,j
+1,CBDS 14 EB,j
+2,CBDS 14 WB,j
+1,CBDS 17 I-80 EB,j
+2,CBDS 17 I-80 WB,j
+1,CBDS 16 EB Thru to I-80 EB,j
+1,CBDS 20 EB,j
+2,CBDS 20 WB,j
+1,CBDS 21 EB,j
+1,CBDS 22 EB,j
+2,CBDS 22 WB,j
+1,CBDS 24 EB,j
+2,CBDS 24 WB,j
+1,CBDS 25 EB,j
+2,CBDS 25 WB,j
+1,IWZ3073 - I-35 NB @ MM 53.63,5b
+2,IWZ3073 - I-35 SB @ MM 53.63,5b
+1,IWZ 3520 NB,5b
+2,IWZ 3520 SB,5b
+1,IWZ 3063 NB,5b
+2,IWZ 3063 SB,5b
+1,IWZ 3084 NB,5b
+2,IWZ 3084 SB,5b
+1,IWZ629 - I-35 NB @ MM 57.55,5b
+2,IWZ629 - I-35 SB @ MM 57.55,5b
+1,IWZ3093 - I-35 NB @ MM 58.8,5b
+2,IWZ3093 - I-35 SB @ MM 58.8,5b
+1,IWZ3554 - I-35 NB @ MM 111.4 (IL,5d
+2,IWZ3554 - I-35 SB @ MM 111.4 (IL,5d
+1,IWZ3085 - I-35 NB @ MM 112 (IL),5d
+2,IWZ3085 - I-35 SB @ MM 112 (IL),5d
+1,IWZ3556 - I-35 NB @ IA-MO border,5d
+2,IWZ3556 - I-35 SB @ IA-MO border,5d
+1,IWZ3555 - I-35 NB @ south of US,5d
+2,IWZ3555 - I-35 SB @ south of US,5d
+1,IWZ3527 - I-35 NB @ Decatur Rest,5d
+2,IWZ3527 - I-35 SB @ Decatur Rest,5d
+1,IWZ 3066 EB,5f
+2,IWZ 3066 WB,5f
+1,IWZ 3507 EB,5f
+2,IWZ 3507 WB,5f
+1,IWZ 3087 EB,5f
+2,IWZ 3087 WB,5f
+1,IWZ 3516 EB,5f
+2,IWZ 3516 WB,5f
+1,I-29 SDSC-01 NB,g
+2,I-29 SDSC-01 SB,g
+1,I-29 SDSC-02 NB,g
+2,I-29 SDSC-02 SB,g
+1,I-29 SDSC-03 NB,g
+2,I-29 SDSC-03 SB,g
+1,I-29 SDSC-04 NB,g
+2,I-29 SDSC-04 SB,g
+1,I-29 SDSC-05 NB,g
+2,I-29 SDSC-05 SB,g
+1,I-29 SDSC-08 NB,g
+2,I-29 SDSC-08 SB,g
+1,I-29 SCDS-29 NB,g
+2,I-29 SCDS-29 SB,g
+1,I-29 SDSC-09 NB,g
+2,I-29 SDSC-09 SB,g
+1,I-29 SCDS-31 NB,g
+2,I-29 SCDS-31 SB,g
+1,I-29 SDSC-11 NB T,g
+2,I-29 SDSC-11 SB T,g
+1,I-29 SDSC-12 NB,g
+2,I-29 SDSC-12 SB,g
+1,I-29 SDSC-13 NB,g
+2,I-29 SDSC-13 SB,g
+1,DMTT06 - I-29 NB @ MM 148.83 T,g
+2,DMTT06 - I-29 SB @ MM 148.83 T,g
+1,I-29 SCDS-30 NB,g
+2,I-29 SCDS-30 SB,g
+1,I-29 SCDS-15 NB,g
+2,I-29 SCDS-15 SB,g
+1,I-29 SCDS-26 NB,g
+2,I-29 SCDS-26 SB,g
+1,I-29 SDSC-16 NB,g
+2,I-29 SDSC-16 SB,g
+1,I-29 SDSC-17 EB,g
+2,I-29 SDSC-17 WB,g
+1,US 20 SDSC-18 EB,h
+2,US 20 SDSC-18 WB,h
+1,US 20 SDSC-19 EB,h
+2,US 20 SDSC-19 WB,h
+1,US 20 SDSC-20 NB,h
+2,US 20 SDSC-20 SB,h
+1,US 20 SDSC-21 EB,h
+2,US 20 SDSC-21 WB,h
+1,US 20 SDSC-22 NB,h
+2,US 20 SDSC-22 SB,h
+1,US 20 SDSC-23 NB,h
+2,US 20 SDSC-23 SB,h
+1,IWZ3551-EB,6a
+2,IWZ3551-WB,6a
+1,IWZ3545-EB,6a
+2,IWZ3545-WB,6a
+1,IWZ3546-EB,6a
+2,IWZ3546-WB,6a
+1,IWZ3553-EB,6a
+2,IWZ3553-WB,6a
+1,IWZ3080-NB,6c
+2,IWZ3080-SB,6c
+1,I-74 NB from Crow Creek to 53rd,6c
+2,I-74 SB from 53rd to 46th,6c
+1,I-74 NB from Spruce Hills to Cro,6c
+2,I-74 SB from 46th to Kimberly,6c
+1,I-74 NB from Middle to Spruce Hi,6c
+2,I-74 SB from Kimberly to Middle,6c
+1,I-74 NB from Lincoln to Middle,6c
+2,I-74 SB from Middle to Lincoln,6c
+1,IWZ3076-EB,6d
+2,IWZ3076-WB,6d
+1,IWZ3079-EB,6d
+2,IWZ3079-WB,6d
+1,IWZ3542-EB,6d
+2,IWZ3542-WB,6d
+1,IWZ3077-EB,6d
+2,IWZ3077-WB,6d
+1,IWZ3068-EB,6d
+2,IWZ3068-WB,6d
+1,IWZ3088-EB,6d
+2,IWZ3088-WB,6d
+1,IWZ3078-EB,6d
+2,IWZ3078-WB,6d
+1,I-380 NB North of US 6 to 270th,6e
+2,I-380 SB 270th St. to North of U,6e
+1,I-380 NB 270th St. to North of P,6e
+2,I-380 SB North of Penn to 270th,6e
+1,I-380 NB North of Penn to North,6e
+2,I-380 SB North of Swan Lake to N,6e
+1,IWZ2005 - I-380 NB @ MM 6.82,6e
+2,IWZ2005 - I-380 SB @ MM 6.82,6e
+1,I-380 NB North of Swan Lake to N,6e
+2,I-380 SB North of River to North,6e
+1,IWZ 3062 NB,6e
+2,IWZ 3062 SB,6e
+1,I-380 NB North of River to 140th,6e
+2,I-380 SB 140th St. to North of R,6e
+1,I-380 CRDS04 NB,6gh
+2,I-380 CRDS04 SB,6gh
+1,I-380 CRDS05 NB,6gh
+2,I-380 CRDS05 SB,6gh
+1,I-380 CRDS06 NB,6gh
+2,I-380 CRDS06 SB,6gh
+1,I-380 CRDS08 NB,6gh
+2,I-380 CRDS08 SB,6gh
+1,I-380 CRDS09 NB,6gh
+2,I-380 CRDS09 SB,6gh
+1,I-380 CRDS10 NB,6gh
+2,I-380 CRDS10 SB,6gh
+1,I-380 CRDS11 NB,6gh
+2,I-380 CRDS11 SB,6gh
+1,I-380 CRDS12 NB,6gh
+2,I-380 CRDS12 SB,6gh
+1,I-74 SB from 53rd to 46th,n
+2,I-74 NB from Crow Creek to 53rd,n
+1,I-74 SB from 46th to Kimberly,n
+2,I-74 NB from Spruce Hills to Cro,n
+1,I-74 SB from Kimberly to Middle,n
+2,I-74 NB from Middle to Spruce Hi,n
+1,I-74 SB from Middle to Lincoln,n
+2,I-74 NB from Lincoln to Middle,n
+1,I-74 SB from Lincoln to Holmes,n
+2,I-74 NB from Holmes to Lincoln,n
+1,I-74 SB from Holmes to Isle Park,n
+2,I-74 NB from Isle Park to Holmes,n
+1,I-74 SB from Isle Parkway to Nor,n
+2,I-74 NB from North Tower to Isle,n
+1,I-74 SB from North Tower to Sout,n
+1,I-74 SB from South Tower to Toll,n
+2,I-74 NB from Toll Plaza to South,n
+1,I-74 SB from Toll Plaza to 1st A,n
+2,I-74 NB from 1st Ave to Toll Pla,n
+1,I-74 SB from 1st Ave to 4th Ave,n
+2,I-74 NB from 4th Ave to 1st Ave,n
+1,I-74 SB from 4th Ave to 7th Ave,n
+2,I-74 NB from 7th Ave to 4th Ave,n
+1,I-74 SB from 7th Ave to 12th Ave,n
+2,I-74 NB from 12th Ave to 7th Ave,n
+1,I-74 SB from 12th Ave to Ave of,n
+2,I-74 NB from Ave of the Cities t,n
